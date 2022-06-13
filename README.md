@@ -1,6 +1,4 @@
-# Algorithm_04
-
-## MODEL 1 : 3 Layers with 1 Convolution layer
+# MODEL 1
 ### 1. Model
 MODEL 1 : 3 Layers with 1 Convolution layer
 ![image](https://user-images.githubusercontent.com/55679848/173366370-7093be96-71a3-40d7-b68c-d1fdbc7828f8.png)
@@ -18,3 +16,11 @@ MODEL 1 : 3 Layers with 1 Convolution layer
 
 ### 5. Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/55679848/173367032-931ecc6a-90e7-4b75-88a3-4e9d3fe99ee8.png)
+
+
+# Model 2
+### 1. Model
+MODEL 2 : 5 Layers with 2 Convolution layer
+![image](https://user-images.githubusercontent.com/55679848/173367874-497e0047-1fd0-47c2-874f-adec5d64577d.png)
+
+### 2.Training with Training loss
