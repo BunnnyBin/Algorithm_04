@@ -28,7 +28,7 @@
 ![image](https://user-images.githubusercontent.com/55679848/173368526-5a820c8e-52ee-41ff-8ebe-a5dd5726a325.png)
 
 ### 4. Images and corresponding probability that predicted Right
-![image](https://user-images.githubusercontent.com/55679848/173368612-841b6b0f-be09-4c69-9cc2-807f58164754.png)
+![image](https://user-images.githubusercontent.com/55679848/173372066-caffefba-d55d-4516-9412-188f7fe42d60.png)
 
 ### 5. Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/55679848/173368672-09ea656c-8fe5-4ec6-85d0-969c7a1bb6cb.png)
