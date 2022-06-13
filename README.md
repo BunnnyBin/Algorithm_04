@@ -1,3 +1,7 @@
 # Algorithm_04
 
-![KakaoTalk_20200203_234700619](https://user-images.githubusercontent.com/55679848/173363313-14d5cd87-c97c-4ac6-a864-da03a47f131f.jpg)
+1. Model
+MODEL 1 : 3 Layers with 1 Convolution layer
+![image](https://user-images.githubusercontent.com/55679848/173366370-7093be96-71a3-40d7-b68c-d1fdbc7828f8.png)
+
+2.Training with Training loss
