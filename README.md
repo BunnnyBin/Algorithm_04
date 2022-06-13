@@ -45,7 +45,7 @@
 ![image](https://user-images.githubusercontent.com/55679848/173370216-62994a14-bb40-4242-abcc-fe4cebedfc24.png)
 
 ### 4. Images and corresponding probability that predicted Right
-![image](https://user-images.githubusercontent.com/55679848/173370301-7f8d3422-df6c-4eea-8a7b-50464a23963e.png)
+![image](https://user-images.githubusercontent.com/55679848/173371168-11295855-b8d8-461c-80f4-2dbcd8dcf834.png)
 
 ### 5. Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/55679848/173370377-9752c30c-6288-4551-8b1b-66b838bc6553.png)
