@@ -16,7 +16,7 @@
 ### 5. Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/55679848/173367032-931ecc6a-90e7-4b75-88a3-4e9d3fe99ee8.png)
 
-
+***  
 # Model 2
 ### 1. Model = MODEL 2 : 5 Layers with 2 Convolution layer
 ![image](https://user-images.githubusercontent.com/55679848/173367874-497e0047-1fd0-47c2-874f-adec5d64577d.png)
